@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\array\bin\Debug\net5.0\array.exe
+D:\yazılım\pratikler\array\bin\Debug\net5.0\array.deps.json
+D:\yazılım\pratikler\array\bin\Debug\net5.0\array.runtimeconfig.json
+D:\yazılım\pratikler\array\bin\Debug\net5.0\array.runtimeconfig.dev.json
+D:\yazılım\pratikler\array\bin\Debug\net5.0\array.dll
+D:\yazılım\pratikler\array\bin\Debug\net5.0\ref\array.dll
+D:\yazılım\pratikler\array\bin\Debug\net5.0\array.pdb
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.AssemblyInfo.cs
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.dll
+D:\yazılım\pratikler\array\obj\Debug\net5.0\ref\array.dll
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.pdb
+D:\yazılım\pratikler\array\obj\Debug\net5.0\array.genruntimeconfig.cache
